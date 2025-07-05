@@ -1,0 +1,48 @@
+body{
+    /* margin: 0;
+    padding: 0; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    text-align: -webkit-center;
+    background-image: url(output-onlinepngtools.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container{
+    margin: 35px;
+    height: auto;
+    width: fit-content;
+    border: 5px solid black;
+    border-radius: 25px;
+    background-color: rgba(177, 127, 94, 0.63);
+}
+.btn{
+    height: 140px;
+    width: 140px;
+      border: 3px solid black;
+    border-radius: 50%;
+    margin: 2.5rem;
+}
+.btn-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.pink{
+    background-color: #d95980;
+}
+.sky-blue{
+    background-color: rgb(84, 180, 218);
+}
+.orange{
+    background-color: rgb(231, 99, 38);
+}
+.blue{
+    background-color: rgb(120, 72, 207);
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: green;
+}
