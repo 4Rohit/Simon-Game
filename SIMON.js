@@ -8,7 +8,7 @@ let level = 0;
 
 const h2 = document.querySelector('h2')
 //GAME START CODE
-document.addEventListener("keypress" , function(){
+document.addEventListener("mouseenter" , function(){
     if(started == false){
         started = true;
         
